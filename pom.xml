@@ -87,10 +87,10 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>de.retest</groupId>
+			<groupId>com.github.beatngu13</groupId>
 			<artifactId>recheck</artifactId>
 			<!-- see https://github.com/beatngu13/recheck/ on branch visual-testing -->
-			<version>1.8.0-VT</version>
+			<version>visual-testing-SNAPSHOT</version>
 		</dependency>
 
 		<dependency>
